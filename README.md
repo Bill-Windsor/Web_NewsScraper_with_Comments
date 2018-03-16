@@ -16,3 +16,4 @@ Usage:
    nodem server.js
 
    Run it locally. Default Port will be PORT 3000 in any browser.
+   Enjoy searching for news articles. 
