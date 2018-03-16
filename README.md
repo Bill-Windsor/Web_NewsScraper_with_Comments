@@ -5,12 +5,14 @@ You can display current NY Times articles, search, save, annotate, and 'delete' 
 
 Usage:
 
-Clone repository
+   Clone this repository
 
-npm install
+   In the Command Line Interface: 
+   
+   cd Web_NewsScraper_with_Comments
+   
+   npm install
 
-cd Web_NewsScraper_with_Comments
+   nodem server.js
 
-nodem server.js
-
-Run it locally. Default Port will be PORT 3000 in any browser.
+   Run it locally. Default Port will be PORT 3000 in any browser.
