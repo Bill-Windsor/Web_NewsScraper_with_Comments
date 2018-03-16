@@ -4,6 +4,7 @@ MongoDB / Mongoose database, and other Node modules.
 You can display current NY Times articles, search, save, annotate, and 'delete' saved articles.
 
 Usage:
+
 Clone repository
 npm install
 cd Web_NewsScraper_with_Comments
